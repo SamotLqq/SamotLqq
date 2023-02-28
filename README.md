@@ -1,4 +1,4 @@
-### <div align="center">👨‍💻 Estudiante universitario y Desarrollador web fullstack 🔨</div>  
+### <h2 align="center">👨‍💻 Estudiante universitario y Desarrollador web fullstack 🔨</h2>  
   
 
 - 👨‍💻 Estudiando ciencias de la computación.  
@@ -10,7 +10,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadisticas Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SamotLqq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -71,6 +71,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
