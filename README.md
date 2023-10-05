@@ -43,12 +43,6 @@
 
 <br/>   
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
 ## Contacto
 <div align="center">
 <a href="https://github.com/SamotLqq" target="_blank">
