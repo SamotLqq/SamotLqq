@@ -1,13 +1,6 @@
-### <h2 align="center">👨‍💻 Estudiante universitario y Desarrollador web fullstack 🔨</h2>  
-  
-
-- 👨‍💻 Estudiando ciencias de la computación.  
-  
-
-- 🔨 Desarrollando proyectos fullstack con javascript.  
-  
-
-<br/>  
+- Estudiante de la licenciatura en ciencias de la computación.  
+- Desarrollando web fullstack.  
+<br/>
 
 
 ## Habilidades
