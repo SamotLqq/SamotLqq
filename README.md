@@ -3,10 +3,8 @@
 <br/>
 
 
-## Habilidades
+## Tecnologías
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -20,8 +18,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -31,8 +27,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Otros  
 <div align="center">  
@@ -47,13 +41,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Estadisticas Github
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SamotLqq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
