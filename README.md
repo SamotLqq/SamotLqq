@@ -1,5 +1,5 @@
 - Estudiante de la licenciatura en ciencias de la computación.  
-- Desarrollando web fullstack.  
+- Desarrollador web fullstack.  
 <br/>
 
 
