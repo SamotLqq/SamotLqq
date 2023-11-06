@@ -1,6 +1,6 @@
 <br/>
 
-## - Estudiante de licenciatura en ciencias de la computación.  
+## - Estudiante de Licenciatura en Ciencias de la Computación.  
 ## - Desarrollador web fullstack.  
 
 <br/>
