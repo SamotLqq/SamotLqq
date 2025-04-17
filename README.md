@@ -1,7 +1,7 @@
 <br/>
 
 ## - Estudiante de Licenciatura en Ciencias de la Computación.  
-## - Desarrollador web.  
+## - Desarrollador Web.  
 
 <br/>
 
